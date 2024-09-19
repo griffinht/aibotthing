@@ -1,0 +1,13 @@
+[project]
+name = "aibot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "discord-py>=2.4.0",
+    "ipykernel>=6.29.5",
+    "openai>=1.46.1",
+    "pip>=24.2",
+    "python-dotenv>=1.0.1",
+]
