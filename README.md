@@ -1,3 +1,6 @@
+old version: https://github.com/griffinht/conversationhub
+
+
 discord gpt bot
 - put chatgpt in discord so you can 
 - this is going to be how we make [[agi]]
